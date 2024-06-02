@@ -21,7 +21,7 @@ aria2 - Utilitário para Download Super Ultra Rápido
 .. index:: double: author; tatsuhiro.t_at_gmail_dot_com
 .. index:: triple: tradutor; tradução; gsavix@gmail.com;
 
-Renúncia
+Isenção de responsabilidade
 --------
 Este programa não vem com garantias. O uso deste programa é por sua
 conta e risco.
